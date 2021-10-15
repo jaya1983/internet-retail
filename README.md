@@ -2,7 +2,14 @@
 
 * Github: https://jaya1983.github.io/internet-retail/
 
-* Walkthrough Video: https://watch.screencastify.com/v/WgWQCFWdZqYhto8usAt4
+* Walkthrough Video: 
+Initial:
+https://watch.screencastify.com/v/zBIE16nX2O364by4ZUi1
+Product & Category:
+https://watch.screencastify.com/v/MvljYq2houoeiwWQt5aC
+Tags:
+https://watch.screencastify.com/v/xgG7CyTnoI0mFrkoZlmq
+
 
 # Description
 
